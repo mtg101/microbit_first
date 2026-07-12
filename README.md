@@ -12,3 +12,4 @@ One reboot main.py script is run by uPython hex system.
 
 USB serial post debugging works when you select USB com port. I think that blocks the flashing too...
 
+And as I'm breadboarding things - need a way to version control that! Wokwi simulator sounds great for PI PICO but micro:bit not supported for simulation so no diagrams either. Fritzing has support, it's standalone ap an I paid €8 for the compiled WIndows version but it is FOSS. circuitcanvas looks great but the microbit imports are too big and I can't wrk out how to resize. I'm including PNGs as well as Fritzing file for those without the app. 
