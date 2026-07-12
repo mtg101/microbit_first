@@ -10,5 +10,10 @@ while True:
         print("Button A")
         sleep(500)
 
+    if button_b.is_pressed():
+        pin2.write_digital(1)
+    else:
+        pin2.write_digital(0)
+
 
     
